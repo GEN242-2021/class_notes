@@ -4,4 +4,6 @@ Notes for each class.
 
 ## Important links
 
-1. [Grade checking app](https://script.google.com/a/macros/ucr.edu/s/AKfycbyPej07yW4VmPNky0xT_wsxJZy8NT7GGm8191tO_x96Z9QcmKwSf8iTWOFIeOwRhCdWVg/exec)
+- [Class website](https://girke.bioinformatics.ucr.edu/GEN242/)
+- [Grade checking app](https://script.google.com/a/macros/ucr.edu/s/AKfycbwH5OEAH684divV0uJbHNN_4-XN5LmsQr_ROzbMVky8my_lSH8BlKTiRh5j2OR7H5bvGg/exec)
+- [elearn (Canvas)](https://elearn.ucr.edu/)
